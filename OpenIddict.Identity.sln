@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthorizationServer", "AuthorizationServer.PostmanClientExample\AuthorizationServer.csproj", "{2B6AA82C-90F9-41CB-A1DA-9622D44AB7AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B6AA82C-90F9-41CB-A1DA-9622D44AB7AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B6AA82C-90F9-41CB-A1DA-9622D44AB7AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B6AA82C-90F9-41CB-A1DA-9622D44AB7AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B6AA82C-90F9-41CB-A1DA-9622D44AB7AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A076C10C-938E-411D-A37B-54C632CDB6AB}
+	EndGlobalSection
+EndGlobal
